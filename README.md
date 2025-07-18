@@ -28,9 +28,9 @@ This project involves building an interactive Power BI dashboard for a Superstor
 
 ## 📷 Dashboard Preview
 
-**Main Dashboard:**
+**Sales Overview Dashboard:**
 
-![Main Dashboard](https://github.com/your-username/SuperStore-Sales-Dashboard/blob/main/screenshots/main_dashboard.png?raw=true)
+![Main Dashboard](https://github.com/nikishita/SuperStore-Sales-Dashboard/blob/main/main_Dashboard.png).
 
 **Forecasting Dashboard:**
 
