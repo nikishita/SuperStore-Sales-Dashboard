@@ -34,7 +34,7 @@ This project involves building an interactive Power BI dashboard for a Superstor
 
 **Forecasting Dashboard:**
 
-![Forecasting Dashboard](https://github.com/your-username/SuperStore-Sales-Dashboard/blob/main/screenshots/forecasting_dashboard.png?raw=true)
+![Forecasting Dashboard](https://github.com/nikishita/SuperStore-Sales-Dashboard/blob/main/forecasting_%20Dashboard.png)
 
 ---
 
